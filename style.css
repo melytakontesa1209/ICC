@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/*konten css*/
+.konten-css{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+    width: auto;
+    background-color: pink;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.header-logo{
+display: flex;
+gap: 16px;
+color: white;
+}
+
+.header-log0-text{
+    color: white;
+}
+.header-nav{
+    display: flex;
+    gap: 16px;
+
+}
+
+
+
